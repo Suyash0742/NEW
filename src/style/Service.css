@@ -1,0 +1,17 @@
+.bold{
+    font-weight: 700;
+    color:black;
+}
+
+.bold2{
+    font-weight: 500;
+    color: darkcyan;
+}
+
+.backgound{
+    background-image: url('C:\Users\SUYASH\Desktop\hello\My New Project\New\src\assets\world map.jfif');
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
