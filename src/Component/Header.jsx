@@ -33,7 +33,7 @@ function Header() {
           >
             <ul className="navbar-nav ">
               <li className="nav-item font">
-                <Link to="/" className="nav-link active">
+                <Link to="/" className="nav-link ">
                   Home
                 </Link>
               </li>
